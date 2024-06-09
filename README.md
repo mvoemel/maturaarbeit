@@ -1,5 +1,5 @@
 # Kepler’s Sphärengeometrie
-Zufall oder steckt dahinter eine höhere Ordnung?
+**Zufall oder steckt dahinter eine höhere Ordnung?**
 
 Die vorliegende Maturaarbeit versucht dem Mysterium einer höheren Ordnung der Plane-tenbewegungen zueinander auf die Spur zu kommen. Mittels erstellten Computerprogramm konnte gezeigt werden, dass faszinierende Figuren wie Blumen und Sterne entstehen, die einen glauben lassen, dass tatsächlich eine höhere Ordnung existiert. 
 Das Computerprogramm gestattet es die Planetenkombinationen gegeneinander in Bezie-hung zu setzen und die berechneten Raumgeraden bzw. Geradenmittelpunkte graphisch darzustellen. In vielen Fällen kann gezeigt werden, dass eine mehr oder weniger regelmäs-sige Figur entsteht. Im Fall der Erde-Venus-Blume scheint diese ‚fast‘ perfekt zu sein. 
